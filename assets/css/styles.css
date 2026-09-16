@@ -45,17 +45,27 @@ h2 {
 color: dodgerblue; 
 font-size: 40px; 
 text-align: left;
+font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
 
 }
 
 h3 {
-	font-size: 16px;
+	
+	font-size: 20px;
 	text-align: right; 
 }
 
 h3 a:link, h3 a:visited {
 	color: dodgerblue; 
 	text-decoration: none;
+	font-size: 20px; 
+font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
 
 }
 
